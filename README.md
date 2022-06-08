@@ -1,1 +1,12 @@
-# React-Facts
+# **React Facts** 🖥️👩‍💻
+*Building a simple web page about some React Facts using React.js.👩‍💻*
+
+## Skills Used:❤️‍🔥 :heart_decoration: 
+📌 React.js
+
+📌 Git & GitHub
+
+# Coding By💡 
+### [Dev. Mai Elhajeen](https://github.com/Mai-Elhajeen)❤️‍🔥
+
+![](https://i.imgur.com/PHOvKO8.png)

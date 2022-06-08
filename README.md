@@ -1,8 +1,10 @@
 # **React Facts** 🖥️👩‍💻
 *Building a simple web page about some React Facts using React.js.👩‍💻*
 
-## Skills Used:❤️‍🔥 :heart_decoration: 
+## Skills Used:❤️‍🔥
 📌 React.js
+
+📌 CSS3
 
 📌 Git & GitHub
 
